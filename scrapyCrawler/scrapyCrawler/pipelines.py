@@ -12,10 +12,10 @@ import json
 class ScrapycrawlerPipeline(object):
 
     def process_item(self, item, spider):
-        """
+        
         afinn = Afinn()
         scored_text = afinn.score(item["text"])
         item["sentiment"] = scored_text
         return item
-        """
+        
 

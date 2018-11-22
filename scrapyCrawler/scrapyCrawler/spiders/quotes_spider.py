@@ -10,6 +10,8 @@ from boilerpipe.extract import Extractor
 from scrapyCrawler.items import ScrapycrawlerItem
 from scrapy.contracts.default import ReturnsContract
 from bs4 import BeautifulSoup
+
+from afinn import Afinn
 # to run spider and save json.line type
 # scrapy crawl quotes -o items.jl
 
@@ -35,12 +37,14 @@ class QuotesSpider(scrapy.Spider):
         #soup = BeautifulSoup(extractor.getHTML(), 'html.parser')
 
         #res = soup.get_text()
-
+        my_text = extractor.getText()
+        afinn = Afinn()
+        scored_text = afinn.score(my_text)
         yield ScrapycrawlerItem(title=title,
-                        text=extractor.getText(),
+                        text=my_text,
                         url=response.url,
                         field=self.name,
-                        sentiment="")
+                        sentiment=scored_text)
         self.links.append(response.url)
 
         for href in response.css('a::attr(href)'):
