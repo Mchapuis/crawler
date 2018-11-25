@@ -44,8 +44,10 @@ class BlockFile():
 
         Args: block line object to write to block file
         '''
-        self.file_handle.write(str(block_line_obj))
-
+        if not isinstance(block_line_obj, str):
+            self.file_handle.write(block_line_obj.getObjectAsAstring())
+        else:
+            self.file_handle.write(str(block_line_obj))
         # count the number of lines
         self.count += 1
     
@@ -89,7 +91,7 @@ class BlockLine:
         returns: an array containing [the block file info, term, postings_list]
         '''
         split = line.split(' ')
-        return cls(block_index_list,split[0],[int(doc_id) for doc_id in split[1:]])
+        return cls(block_index_list,split[0],[doc_id for doc_id in split[1:]])
     
     def merge(self, new_file_line):
         ''' Merge this dic line with another

@@ -124,5 +124,5 @@ inverter_obj = Inverter(index_arr, block_limit=10)
 output_files = inverter_obj.spimi_inverter()
 
 # call the spmi merger
-#merger_obj = Merger(output_files)
-#blocks_merged = merger_obj.merge()
+merger_obj = Merger(output_files)
+blocks_merged = merger_obj.merge()
