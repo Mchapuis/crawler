@@ -23,7 +23,7 @@ class Inverter:
         self.posting_lists = None
 
         if self.block_limit is None:
-            self.block_limit = 500
+            self.block_limit = 5
 
     
     def spimi_inverter(self):

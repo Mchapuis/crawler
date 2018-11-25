@@ -2,7 +2,7 @@ import json
 import pprint
 from afinn import Afinn
 import nltk 
-from nltk.tokenize import sent_tokenize, word_tokenize
+from nltk.tokenize import sent_tokenize, word_tokenize, RegexpTokenizer
 from nltk.corpus import stopwords
 import io, os, sys
 from FileInformation import SetInfo
@@ -49,10 +49,15 @@ class invertedIndex():
                 #    sentiment = self.data[numb]['sentiment']
 
                 # tokenize the text
-                arr_terms = word_tokenize(str(text))
+                #arr_terms = word_tokenize(str(text))
+
+                # removing punctuation also
+                tokenizer = RegexpTokenizer(r'\w+')
+                arr_terms = tokenizer.tokenize(str(text))
 
                 # remove stopwords
                 arr_terms = [i for i in arr_terms if i not in stopwords.words('english')]
+                arr_terms = [i for i in arr_terms if i not in stopwords.words('french')]
 
                 # remove charmap codec errors
                 import re
@@ -62,6 +67,8 @@ class invertedIndex():
                 # remove numbers
                 arr_terms = [t for t in arr_terms if not self.is_number(t)] 
 
+
+                tokenizer = RegexpTokenizer(r'\w+')
                 # number of tokens
                 numb_token = len(arr_terms)
 
@@ -113,7 +120,7 @@ index_arr = inv_index.parser()
 from spimi_inverter import Inverter
 from spmi_merger import Merger
  # call the spmi inverter to apply the algorithm
-inverter_obj = Inverter(index_arr, block_limit=500)
+inverter_obj = Inverter(index_arr, block_limit=10)
 output_files = inverter_obj.spimi_inverter()
 
 # call the spmi merger
