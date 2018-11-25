@@ -14,7 +14,8 @@ class ArticleInfo:
             newid: ID of article
             length: length of new article
         """
-        self.dic[newid] = Article(newid, length)
+        element = Article(newid, length)
+        self.dic[newid] = element.toString()
 
     def getArticleInfo(self, newid):
         """Get information from article if we give an id
