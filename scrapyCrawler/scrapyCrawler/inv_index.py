@@ -68,21 +68,17 @@ class invertedIndex():
                 # sentiment for all the terms
                 my_score = [afinn.score(i) for i in arr_terms]
 
+                token_pair = [(term, url) for term in arr_terms]
+
                 # get the length of terms for this article
                 document_set.addArticleInfo(str(url), numb_token)
-
-                for counter, term in enumerate(arr_terms):
-                    token_pair = (term, url, my_score[counter])
-                    try:
-                        print("token elements to save :"+ str(term) +" url:"+ str(url) +" score: "+ str(my_score[counter]))
-                    except UnicodeEncodeError:
-                        pass
-                    pairs.extend(token_pair)
-
+                
+                pairs.extend(token_pair)
+            
                 # find the fequency
                 doc_count += 1
 
-        arr_element.extend(pairs)
+            arr_element.extend(pairs)
         avgdl = float(len(arr_element)) / doc_count
 
         # register information for later user

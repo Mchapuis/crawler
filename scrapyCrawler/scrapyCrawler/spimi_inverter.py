@@ -39,7 +39,7 @@ class Inverter:
             count = set()
             posting_lists = []
             try:
-                while self.block_limit >= len(count):#len(dictionary) < self.block_limit:
+                while self.block_limit >= len(count):
                     # get the tuple [term, newID]
 
                     # NOTE: Here had many problems with intergers and many exceptions errors.
@@ -149,7 +149,7 @@ class Inverter:
         # 
         for term in sorted_terms:
             line = BlockLine(list(), term, dictionary[term])
-            block_file.writeLine(line)
+            block_file.writeLine(line.getObjectAsAstring())
 
         block_file.close_handle()
         return block_file
