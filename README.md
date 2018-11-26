@@ -13,6 +13,9 @@ In settings.py change variable
 ## to save new json file
 `scrapy crawl quotes -o items.json`
 
-## to start the inverted-index (still some errors there)
+## to start the inverted-index 
 return to one earlier folder with `cd ..` then 
 `python inv_index.py`
+
+## to query the data -- example with Concordia since small database for now
+`python query_processing.py Concordia`
