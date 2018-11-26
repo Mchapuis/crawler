@@ -88,7 +88,8 @@ class BlockLine:
             block_index_list: the document info where the line was
             line: line to be split
         
-        returns: an array containing [the block file info, term, postings_list]
+        return:
+         an array containing [term, postings_list]
         '''
         split = line.split(' ')
         return cls(block_index_list,split[0],[doc_id for doc_id in split[1:]])
@@ -96,9 +97,11 @@ class BlockLine:
     def merge(self, new_file_line):
         ''' Merge this dic line with another
 
-        Args: new_file_line: another line from another file to merge
+        Args: 
+            new_file_line: another line from another file to merge
 
-        Returns: new BlockLine object with those elements
+        Returns: 
+            new BlockLine object with those elements
         '''
         new_block_file_index_list = sorted(self.block_index_list + new_file_line.block_index_list)
         new_postings_list = sorted(self.postings_list + new_file_line.postings_list)

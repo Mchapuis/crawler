@@ -91,7 +91,7 @@ class invertedIndex():
         # register information for later user
         collection = SetInfo(doc_count, len(pairs),avgdl)
 
-        self.saveFileInformation(ARTICLE_INFO, document_set.toString())
+        self.saveFileInformation(ARTICLE_INFO, document_set.myString())
         self.saveFileInformation(DATASET, collection.toString())
         self.saveFileInformation(TEST, arr_element)
 
