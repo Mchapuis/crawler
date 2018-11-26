@@ -19,3 +19,5 @@ return to one earlier folder with `cd ..` then
 
 ## to query the data -- example with Concordia since small database for now
 `python query_processing.py Concordia`
+
+the result of the query is saved in the text file named `Result_01.txt`
