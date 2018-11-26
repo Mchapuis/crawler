@@ -11,7 +11,7 @@ files_directory = os.path.dirname(os.path.realpath(__file__))
 output_disk_directory = os.path.join(files_directory, 'DISK')
 ARTICLE_INFO = os.path.join(output_disk_directory, "infoForQueries.txt")
 DATASET = os.path.join(output_disk_directory, "dataset.txt")
-TEST = os.path.join(output_disk_directory, "test_dic.txt")
+SENTIMENT = os.path.join(output_disk_directory, "sentiment_for_each_url.txt")
 
 class invertedIndex():
 
@@ -30,8 +30,10 @@ class invertedIndex():
         # total number of documents/pages
         doc_count = 0
         document_set = ArticleInfo()
+        sentiment_set = ArticleInfo()
         # total tokens 
         arr_element = list()
+        arr_sentiment = list()
 
         # loop throught all the json items
         for numb, page in enumerate(self.data):
@@ -73,19 +75,25 @@ class invertedIndex():
                 numb_token = len(arr_terms)
 
                 # sentiment for all the terms
-                my_score = [afinn.score(i) for i in arr_terms]
+                #my_score = [afinn.score(i) for i in arr_terms]
 
+                # term and the url
                 token_pair = [(term, url) for term in arr_terms]
 
                 # get the length of terms for this article
                 document_set.addArticleInfo(str(url), numb_token)
+                # get the sentiment for the url
+                sentiment_set.addArticleInfo(str(url), afinn.score(str(text)))
                 
+                # add to list for later
                 pairs.extend(token_pair)
+                #sentiment_and_url.extend(my_sentiment)
             
                 # find the fequency
                 doc_count += 1
 
             arr_element.extend(pairs)
+            
         avgdl = float(len(arr_element)) / doc_count
 
         # register information for later user
@@ -93,7 +101,7 @@ class invertedIndex():
 
         self.saveFileInformation(ARTICLE_INFO, document_set.myString())
         self.saveFileInformation(DATASET, collection.toString())
-        self.saveFileInformation(TEST, arr_element)
+        self.saveFileInformation(SENTIMENT, sentiment_set.myString())
 
         return arr_element
         
