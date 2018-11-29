@@ -49,6 +49,7 @@ def setRanking(query_terms, arr_terms, url_list, set_data, article_data):
         article_length = result_article_info[1]
 
         doc_ranking_val = 0
+        sentiment_ranking = 0
         for term in range(len(query_terms)):
 
             # get frequency
@@ -70,9 +71,9 @@ def setRanking(query_terms, arr_terms, url_list, set_data, article_data):
 
             # calc sentiment ranking value
             if query_sentiments[str(query_terms[term])] < 0: # negative sentiment query term
-                sentiment_ranking = float(-(result_article_info[1]))
+                sentiment_ranking = float(-(result_article_info[2]))
             elif query_sentiments[str(query_terms[term])] > 0: # postive sentiment query term
-                sentiment_ranking = float(result_article_info[1])
+                sentiment_ranking = float(result_article_info[2])
             else: # not negative or positive value would pass the sentiment weight to the bm25 ranking
                 sentiment_ranking = doc_ranking_val
             
@@ -176,6 +177,7 @@ def dispatchQuery(path, query_terms):
     res = None
 
     res = queyOrInFiles(query_terms, dictionary_file)
+    
     return res
 
 def run(args):
@@ -200,7 +202,6 @@ def run(args):
     term_arr = [term.lower() for term in term_arr]
 
     res = dispatchQuery(SEARCH_FILES, term_arr)
-
 
     #print("NewID matching the search: ")
     #pprint.pprint(res)
