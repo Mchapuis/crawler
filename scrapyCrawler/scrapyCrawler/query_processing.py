@@ -8,11 +8,12 @@ import os
 SEARCH_FILES = os.path.join(os.path.join(os.path.dirname(os.path.realpath(__file__)), 'DISK'), 'Merged_withConstraints_v1.txt')
 DATASET = os.path.join(os.path.join(os.path.dirname(os.path.realpath(__file__)), 'DISK'), 'dataset.txt')
 INFO_FOR_QUERIES = os.path.join(os.path.join(os.path.dirname(os.path.realpath(__file__)), 'DISK'), 'infoForQueries.txt')
+SENTIMENT = os.path.join(os.path.join(os.path.dirname(os.path.realpath(__file__)), 'DISK'), 'sentiment_for_each_url.txt')
 import sys
 import pprint
 import operator
 from math import log10
-
+from afinn import Afinn
 
 def setRanking(query_terms, arr_terms, url_list, set_data, article_data):
     ''' Analyse informations and process ranking with BM25
@@ -21,18 +22,26 @@ def setRanking(query_terms, arr_terms, url_list, set_data, article_data):
         query_terms -- list of query_terms from the query
         arr_terms -- res of all terms
         url_list: new_id of article with at least one keyword
-        set_data: information from alll the articles
-        article_data: actual article iformation
+        set_data: information from all the articles
+        article_data: actual article information
     Return: ranked list
     '''
-
     K1 = float(0.5)
     B = float(0.5)
     
+    sentiment_weight = float(0.5)
+    bm25_weight = float(1.0) - sentiment_weight
+
     totalNumberOfArticles = set_data.article_count
     avgDL = set_data.avgDL
 
     doc_rankings = dict()
+
+    # save query terms sentiment values
+    afinn = Afinn()
+    query_sentiments = {}
+    for term in range(len(query_terms)):
+        query_sentiments[str(query_terms[term])] = afinn.score(query_terms[term])
 
     for url_for_newID in url_list:
         result_article_info = article_data.getArticleInfo(url_for_newID)
@@ -59,7 +68,15 @@ def setRanking(query_terms, arr_terms, url_list, set_data, article_data):
             # adding log
             doc_ranking_val = log10(res_1 * res_2 / res_3)
 
-        doc_rankings[url_for_newID] = doc_ranking_val
+            # calc sentiment ranking value
+            if query_sentiments[str(query_terms[term])] < 0: # negative sentiment query term
+                sentiment_ranking = float(-(result_article_info[1]))
+            elif query_sentiments[str(query_terms[term])] > 0: # postive sentiment query term
+                sentiment_ranking = float(result_article_info[1])
+            else: # not negative or positive value would pass the sentiment weight to the bm25 ranking
+                sentiment_ranking = doc_ranking_val
+            
+        doc_rankings[url_for_newID] = (bm25_weight * doc_ranking_val) + (sentiment_weight * sentiment_ranking)
 
     res = sorted(doc_rankings.items(), key=operator.itemgetter(1), reverse=True)
     return res
@@ -197,7 +214,7 @@ def parseQuery(args):
     Return: an object that represent the arguments as a list/tuple
     '''
     parser = ArgumentParser(description="Hello! Please enter a query")
-    parser.add_argument('terms', metavar='all the terms to look for', nargs='+')
+    parser.add_argument('terms', metavar='all the terms to look for ', nargs='+')
     parse_obj = parser.parse_args(args)
     return parse_obj
 
@@ -206,7 +223,3 @@ if __name__ == '__main__':
     '''
     parsed_obj = parseQuery(sys.argv[1:])
     parsed_result = run(parsed_obj)
-
-
-
-

@@ -24,5 +24,5 @@ the result of the query is saved in the text file named `Result_01.txt`
 
 ## files created
 `dataset.txt` -- [general informations about all the files analysed]
-`infoForQueries.txt` -- [url, length in words of this url]
+`infoForQueries.txt` -- [url, length in words of this url, sentiment value for this url]
 `sentiment_for_each_url.txt`: -- [url, sentiment value for this url]

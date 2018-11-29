@@ -57,7 +57,7 @@ class Inverter:
                         print("error with: "+str(token[0]))
                     
                     # add a newID to the list
-                    print("adding to posting list" + token[0])
+                    print("adding to posting list " + token[0])
                     try:
                         self.addToPostingsList(posting_lists, token[1])
                     except IndexError:
