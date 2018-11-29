@@ -1,3 +1,5 @@
+' https://www.concordia.ca/fr/web/conditions.html
+
 'uvres https://www.concordia.ca/fr/web/conditions.html
 
 1M8 https://www.concordia.ca/web/privacy.html

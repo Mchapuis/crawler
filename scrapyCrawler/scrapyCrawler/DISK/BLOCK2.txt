@@ -1,3 +1,4 @@
+' https://www.concordia.ca/fr/web/conditions.html
 'uvres https://www.concordia.ca/fr/web/conditions.html
 A https://www.concordia.ca/campus-life/life-in-montreal.html https://www.concordia.ca/campus-life/life-in-montreal.html
 ALAN https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
@@ -1033,7 +1034,6 @@ worldwide https://www.concordia.ca/campus-life/life-in-montreal.html
 would https://www.concordia.ca/sgs/programs/university-teaching.html https://www.concordia.ca/sgs/programs/university-teaching.html https://www.concordia.ca/sgs/programs/university-teaching.html https://www.concordia.ca/sgs/programs/university-teaching.html https://www.concordia.ca/sgs/programs/university-teaching.html https://www.concordia.ca/sgs/programs/university-teaching.html https://www.concordia.ca/sgs/programs/individualized.html
 write https://www.concordia.ca/sgs/programs/university-teaching.html
 year https://www.concordia.ca/campus-life/life-in-montreal.html
-À https://www.concordia.ca/fr/web/conditions.html
 échanges https://www.concordia.ca/fr/web/conditions.html
 écrit https://www.concordia.ca/fr/web/conditions.html
 écrite https://www.concordia.ca/fr/web/conditions.html https://www.concordia.ca/fr/web/conditions.html

@@ -64,7 +64,7 @@ class invertedIndex():
                 # remove charmap codec errors
                 import re
 
-                arr_terms = [re.sub(u"(\u2026|\u0153|\u2011|\u2018|\u2019|\u2014|\u201c|\u201d|\u2013)", "'", i) for i in arr_terms]
+                arr_terms = [re.sub(u"(\u2026|\u0153|\u2011|\u2018|\u2019|\u2014|\u201c|\u201d|\u2013|\xc0)", "'", i) for i in arr_terms]
 
                 # remove numbers
                 arr_terms = [t for t in arr_terms if not self.is_number(t)] 
@@ -81,9 +81,9 @@ class invertedIndex():
                 token_pair = [(term, url) for term in arr_terms]
 
                 # get the length of terms for this article
-                document_set.addArticleInfo(str(url), numb_token)
+                document_set.addArticleInfo(str(url), numb_token, str(afinn.score(str(text))))
                 # get the sentiment for the url
-                sentiment_set.addArticleInfo(str(url), afinn.score(str(text)))
+                # sentiment_set.addArticleInfo(str(url), afinn.score(str(text)))
                 
                 # add to list for later
                 pairs.extend(token_pair)
@@ -101,7 +101,7 @@ class invertedIndex():
 
         self.saveFileInformation(ARTICLE_INFO, document_set.myString())
         self.saveFileInformation(DATASET, collection.toString())
-        self.saveFileInformation(SENTIMENT, sentiment_set.myString())
+        # self.saveFileInformation(SENTIMENT, sentiment_set.myString())
 
         return arr_element
         

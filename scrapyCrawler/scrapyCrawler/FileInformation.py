@@ -7,14 +7,14 @@ class ArticleInfo:
         """
         self.dic = dict()
 
-    def addArticleInfo(self, newid, length):
+    def addArticleInfo(self, newid, length, sentiment):
         """ Add all informations 
 
         Args:
             newid: ID of article
             length: length of new article
         """
-        element = Article(newid, length)
+        element = Article(newid, length, sentiment)
         self.dic[newid] = element.toString()
 
     def getArticleInfo(self, newid):
@@ -56,14 +56,15 @@ class ArticleInfo:
         for line in rec_line:
             split = line.split(' ')
             url = split[0]
-            lenght = int(split[1])
-            document.addArticleInfo(url, lenght)
+            length = int(split[1])
+            sentiment = float(split[2])
+            document.addArticleInfo(url, length, sentiment)
         return document
 
 
 class Article:
 
-    def __init__(self, newid, length):
+    def __init__(self, newid, length, sentiment):
         """ Info for one article
 
         Args:
@@ -72,11 +73,12 @@ class Article:
         """
         self.newId = newid
         self.length = length
+        self.sentiment = sentiment
 
     def toString(self):
         """ return a string as newID length 
         """
-        my_str = '{} {}'.format(str(self.newId), self.length)
+        my_str = '{} {} {}'.format(str(self.newId), self.length, self.sentiment)
         return my_str
 
 
@@ -121,4 +123,3 @@ class SetInfo:
                 avgDL = float(_split[1])
         
         return cls(article_count, token_count, avgDL)
-
