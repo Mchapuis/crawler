@@ -18,8 +18,11 @@ from afinn import Afinn
 class QuotesSpider(scrapy.Spider):
     name = "quotes"
     start_urls = ['https://www.concordia.ca/about.html']
-    rules = [Rule(LinkExtractor(), callback='parse', follow=True)]
-    allowed_domains = ["concordia.ca"]
+    list_domains = ['explore.concordia.ca', 'twitter.com', 'facebook.com', 'youtube.com', 'flickr.com','legisquebec.gouv.qc.ca']
+    rules = [Rule(LinkExtractor(allow=r'concordia.ca', deny=r'explore.concordia.ca', deny_extensions=r'pdf'), callback='parse', follow=True)]
+    allowed_domains = ["concordia.ca"]#concordia.ca/(.*?).html"]
+    #deny_domains = ["explore.concordia.ca"]
+    #deny_extensions = ["pdf"]
 
     def __init__(self):
         self.links = []
@@ -37,7 +40,12 @@ class QuotesSpider(scrapy.Spider):
         #soup = BeautifulSoup(extractor.getHTML(), 'html.parser')
 
         #res = soup.get_text()
-        my_text = extractor.getText()
+        if "Explore" in title:
+            return
+        try:
+            my_text = extractor.getText()
+        except scrapy.exceptions.NotSupported:
+            return
         afinn = Afinn()
         scored_text = afinn.score(my_text)
         yield ScrapycrawlerItem(title=title,

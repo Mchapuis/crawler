@@ -74,8 +74,8 @@ ROBOTSTXT_OBEY = True
 #}
 
 # max number of items to scrape -- upper bound
-CLOSESPIDER_ITEMCOUNT = 1000
-CLOSESPIDER_PAGECOUNT = 200
+#CLOSESPIDER_ITEMCOUNT = 1000
+CLOSESPIDER_PAGECOUNT = 2000
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
