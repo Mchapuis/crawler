@@ -69,7 +69,8 @@ class invertedIndex():
                 # remove numbers
                 arr_terms = [t for t in arr_terms if not self.is_number(t)] 
 
-
+                # case folding
+                arr_terms = [term.lower() for term in arr_terms]
                 tokenizer = RegexpTokenizer(r'\w+')
                 # number of tokens
                 numb_token = len(arr_terms)
