@@ -197,6 +197,7 @@ def run(args):
     # should compress terms in array of terms
     #remove stopwords
     term_arr = [i for i in term_arr if i not in stopwords.words('english')]
+    term_arr = [term.lower() for term in term_arr]
 
     res = dispatchQuery(SEARCH_FILES, term_arr)
 
