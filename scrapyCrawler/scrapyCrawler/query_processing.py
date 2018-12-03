@@ -26,6 +26,7 @@ def setRanking(query_terms, arr_terms, url_list, set_data, article_data):
         article_data: actual article information
     Return: ranked list
     '''
+    #print("my keywords are:"+str(query_terms))
     K1 = float(0.5)
     B = float(0.5)
     
@@ -33,7 +34,9 @@ def setRanking(query_terms, arr_terms, url_list, set_data, article_data):
     bm25_weight = float(1.0) - sentiment_weight
 
     totalNumberOfArticles = set_data.article_count
+    #print("total nmbr of articles is:"+str(totalNumberOfArticles))
     avgDL = set_data.avgDL
+    #print("Avergage is:"+str(avgDL))
 
     doc_rankings = dict()
 
@@ -44,30 +47,33 @@ def setRanking(query_terms, arr_terms, url_list, set_data, article_data):
         query_sentiments[str(query_terms[term])] = afinn.score(query_terms[term])
 
     for url_for_newID in url_list:
+        #print("ID with at least one word for the query is:"+url_for_newID)
         result_article_info = article_data.getArticleInfo(url_for_newID)
         result_article_info = result_article_info.split(' ')
         article_length = result_article_info[1]
+        #print("article length is"+str(article_length))
 
         doc_ranking_val = 0
         sentiment_ranking = 0
         for term in range(len(query_terms)):
-
-            # get frequency
+            # get article and term f
             doc_freq = arr_terms[term].get_document_frequency()
+            
             termFrequency = arr_terms[term].get_term_frequency(url_for_newID)
 
             res_1 = float(totalNumberOfArticles) / doc_freq
             res_2 = (K1 + 1) * termFrequency
 
             # corner cases
-            if termFrequency == 0:
-                return 0
-
-            # calculate the BM25
-            res_3 = (K1 * ((1 - B) + B * (float(article_length) / avgDL)) + termFrequency)
+            if termFrequency != 0:
+                # calculate the BM25
+                res_3 = (K1 * ((1 - B) + B * (float(article_length) / avgDL)) + termFrequency)
+                final_result = log10(res_1 * res_2 / res_3)
+            else:
+                final_result = termFrequency
 
             # adding log
-            doc_ranking_val = log10(res_1 * res_2 / res_3)
+            doc_ranking_val = doc_ranking_val + final_result
 
             # calc sentiment ranking value
             if query_sentiments[str(query_terms[term])] < 0: # negative sentiment query term
@@ -76,7 +82,6 @@ def setRanking(query_terms, arr_terms, url_list, set_data, article_data):
                 sentiment_ranking = float(result_article_info[2])
             else: # not negative or positive value would pass the sentiment weight to the bm25 ranking
                 sentiment_ranking = doc_ranking_val
-            
         doc_rankings[url_for_newID] = (bm25_weight * doc_ranking_val) + (sentiment_weight * sentiment_ranking)
 
     res = sorted(doc_rankings.items(), key=operator.itemgetter(1), reverse=True)
@@ -107,8 +112,7 @@ def queyOrInFiles(terms, block):
         elif line.term == current_term:
             #pprint.pprint("Recording a posting for: "+ current_term)
             #print("The line appened is:"+line)
-            res.append(line)
-        
+            res.append(line)        
 
         try:
             # try to find another one without exceptions

@@ -7,6 +7,7 @@ from nltk.corpus import stopwords
 import io, os, sys
 from FileInformation import SetInfo
 from FileInformation import ArticleInfo
+from unidecode import unidecode
 files_directory = os.path.dirname(os.path.realpath(__file__))
 output_disk_directory = os.path.join(files_directory, 'DISK')
 ARTICLE_INFO = os.path.join(output_disk_directory, "infoForQueries.txt")
@@ -16,15 +17,13 @@ SENTIMENT = os.path.join(output_disk_directory, "sentiment_for_each_url.txt")
 class invertedIndex():
 
     def __init__(self):
-        with open('items.json') as f:
+        with open('items.json', encoding='utf-8') as f:
             _data = f.read()
         self.data = json.loads(_data)
         #self.data = json.dumps(_data, ensure_ascii=True)
         #self.data = json.load(self.data)
         #pprint.pprint(self.data)
 
-            
-    
     def parser(self):
         afinn = Afinn()
         # total number of documents/pages
@@ -39,6 +38,7 @@ class invertedIndex():
         for numb, page in enumerate(self.data):
             text = ""
             url = None
+            print("numb count is:"+str(numb))
             for key in self.data[numb]:
                 pairs = list()
                 # find the sentiment for the article
@@ -64,7 +64,10 @@ class invertedIndex():
                 # remove charmap codec errors
                 import re
 
-                arr_terms = [re.sub(u"(\u2026|\u0153|\u2011|\u2018|\u2019|\u2014|\u201c|\u201d|\u2013|\xc0)", "'", i) for i in arr_terms]
+                # decode chars
+                arr_terms = [re.sub(u"(\ufb01|\u0142|\u02ee|\u2026|\u0153|\u2011|\u2018|\u2019|\u2014|\u201c|\u201d|\u2013|\xc0)", "'", i) for i in arr_terms]
+                
+                arr_terms = [unidecode(i) for i in arr_terms]
 
                 # remove numbers
                 arr_terms = [t for t in arr_terms if not self.is_number(t)] 
@@ -92,6 +95,7 @@ class invertedIndex():
             
                 # find the fequency
                 doc_count += 1
+                
 
             arr_element.extend(pairs)
             
@@ -124,13 +128,15 @@ class invertedIndex():
 
 inv_index = invertedIndex()
 index_arr = inv_index.parser()
-#pprint.pprint(index_arr)
+pprint.pprint(index_arr)
 
 from spimi_inverter import Inverter
 from spmi_merger import Merger
+from dictionary import BlockFile
  # call the spmi inverter to apply the algorithm
 inverter_obj = Inverter(index_arr, block_limit=10)
 output_files = inverter_obj.spimi_inverter()
+
 
 # call the spmi merger
 merger_obj = Merger(output_files)

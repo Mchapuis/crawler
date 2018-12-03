@@ -1,6 +1,23 @@
-+---------------------------------------------------------------------------------------------------+--------------------+
-|                                               NEW_ID                                              |        RANK        |
-+---------------------------------------------------------------------------------------------------+--------------------+
-| https://owa.concordia.ca/owa/auth/logon.aspx?url=https%3a%2f%2fowa.concordia.ca%2fowa%2f&reason=0 | 2.0535470300701277 |
-|                                                                                                   |                    |
-+---------------------------------------------------------------------------------------------------+--------------------+
++------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------+
+|                                                                        NEW_ID                                                                        |        RANK        |
++------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------+
+|                                                   http://crdh.concordia.ca/about/publications.html                                                   | 4.9424622858373795 |
+|                                                   http://crdh.concordia.ca/about/publications.html                                                   | 2.947064916440083  |
+|                                                                                                                                                      |                    |
+|                                                http://www.concordia.ca/library/guides/psychology.html                                                |  2.89494903695378  |
+|                                               http://crdh.concordia.ca/researchers/Sylvia_Kairouz.html                                               |  2.85308073804021  |
+| https://www.concordia.ca/cunews/main/stories/2016/05/25/researchers-alcohol-predictive-cues-can-facilitate-drinking-and-relapses-nadia-chaudhri.html | 2.835536588587765  |
+|           https://www.concordia.ca/cunews/main/stories/2016/03/15/mihaela-iordanova-one-of-four-new-canada-research-chairs-psychology.html           | 2.7905543462186055 |
+|                           http://www.concordia.ca/cunews/main/stories/2013/01/15/where-theres-smoke-theres-a-quitter.html                            | 2.675110339991418  |
+|                           https://www.concordia.ca/cunews/main/stories/2013/01/15/where-theres-smoke-theres-a-quitter.html                           | 2.675110339991418  |
+|                                   https://www.concordia.ca/cunews/main/stories/2013/09/25/sex-drugs-and-rats.html                                    |  2.6648880135164   |
+|                                    http://www.concordia.ca/cunews/main/stories/2013/09/25/sex-drugs-and-rats.html                                    |  2.6648880135164   |
+|                  https://www.concordia.ca/cunews/main/stories/2018/02/13/research-resisting-the-cues-for-sugar-nadia-chaudhri.html                   | 2.6218910207401867 |
+|                     https://www.concordia.ca/cunews/main/stories/2011/10/20/kicking-bad-habits-requires-change-in-thinking.html                      | 2.5716298031550955 |
+|                      http://www.concordia.ca/cunews/main/stories/2011/10/20/kicking-bad-habits-requires-change-in-thinking.html                      | 2.5716298031550955 |
+|              http://www.concordia.ca/cunews/main/stories/2015/08/18/selfie-narcissim-photography-self-portrati-ann-louise-davidson.html              | 2.526389811243456  |
+|                                 http://www.concordia.ca/cunews/main/stories/2015/10/09/world-mental-health-day.html                                  | 2.4609047274901825 |
+|                                         https://www.concordia.ca/students/counselling/meet-counsellors.html                                          | 2.135692445503909  |
+|                                                                                                                                                      |                    |
+|                     https://www.concordia.ca/graduation-convocation/honorary-degrees/honorary-degree-recipients-spring-2016.html                     | 2.011319634992386  |
++------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------+

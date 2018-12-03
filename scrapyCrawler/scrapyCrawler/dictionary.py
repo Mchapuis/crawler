@@ -112,7 +112,7 @@ class BlockLine:
         Represent the line object as a string.
         :return:
         """
-        result = '{} {}\n'.format(self.term, ' '.join([str(doc_id) for doc_id in self.postings_list]))
+        result = '{} {}\n'.format(self.term, ' '.join([str(url) for url in self.postings_list]))
         return result
     
     def get_document_frequency(self):
@@ -122,14 +122,17 @@ class BlockLine:
         """
         return len(self.postings_list)
 
-    def get_term_frequency(self, doc_id):
+    def get_term_frequency(self, url):
         """
         Get the frequency of the term in the document for the given document ID.
-        :param doc_id: the document ID.
-        :return: the number of occurrences of the term in the given document.
+        Args:
+            url: the document url
+        Return: the number of occurrences of the term in the given document.
         """
         freq = 0
-        for doc in self.postings_list:
-            freq += 1 if doc == doc_id else 0
+        for _url in self.postings_list:
+            if _url == url:
+                freq +=1
+        #print("returning frequency "+ str(freq))
         return freq
 

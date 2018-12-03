@@ -86,6 +86,7 @@ class Merger:
                     else:
                         next_lines[next_line_index[index]] = next_new_line
                 except IndexError:
+                    print("there is an index error")
                     continue
 
         # close

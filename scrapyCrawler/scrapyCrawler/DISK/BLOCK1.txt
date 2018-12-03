@@ -1,760 +1,768 @@
 1m8 https://www.concordia.ca/web/privacy.html
-a https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-aa https://www.concordia.ca/students/registration.html
-able https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-academic https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-academics https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-access https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html
+a https://www.concordia.ca/web/privacy.html
+abuse https://www.concordia.ca/web/terms.html
+abusive https://www.concordia.ca/web/terms.html
+academic https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
+accept https://www.concordia.ca/web/terms.html
+access https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/events.html
 accessed https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
 accessibility https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
-accomplish https://www.concordia.ca/students/registration.html
-accordance https://www.concordia.ca/web/privacy.html
-accuracy https://www.concordia.ca/web/privacy.html
+accessing https://www.concordia.ca/web/terms.html
+accordance https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html
+accuracy https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html
 achievements https://www.concordia.ca/social.html
-act https://www.concordia.ca/web/privacy.html
+acquires https://www.concordia.ca/web/terms.html
+act https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
 activities https://www.concordia.ca/social.html
-add https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-added https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-adding https://www.concordia.ca/students/registration.html
-additional https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-address https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-administrative https://www.concordia.ca/students/registration.html
-admission https://www.concordia.ca/students/registration.html
-admitted https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-advice https://www.concordia.ca/students/registration.html
-advising https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html
-advisors https://www.concordia.ca/students/registration.html
+adapt https://www.concordia.ca/web/terms.html
+address https://www.concordia.ca/web/privacy.html
+adopt https://www.concordia.ca/web/terms.html
+adoption https://www.concordia.ca/web/terms.html
+advertising https://www.concordia.ca/web/terms.html
+advising https://www.concordia.ca/web/accessibility.html
 affect https://www.concordia.ca/web/accessibility.html
+affiliated https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+agency https://www.concordia.ca/events.html
+agree https://www.concordia.ca/web/terms.html
+agreements https://www.concordia.ca/web/terms.html
 aimed https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-all https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-allow https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html
-allows https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-already https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-also https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html
+alan https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+all https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+allow https://www.concordia.ca/web/privacy.html
+already https://www.concordia.ca/web/privacy.html
+also https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
 alternative https://www.concordia.ca/web/accessibility.html
 alternatives https://www.concordia.ca/web/accessibility.html
 alumni https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-always https://www.concordia.ca/students/registration.html
-another https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-any https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html
+american https://www.concordia.ca/events.html https://www.concordia.ca/events.html
+among https://www.concordia.ca/events.html
+anglais https://www.concordia.ca/events.html
+another https://www.concordia.ca/web/terms.html
+any https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
 anyone https://www.concordia.ca/social.html
+appeal https://www.concordia.ca/web/terms.html
 appeals https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-appears https://www.concordia.ca/students/registration.html
+appearing https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
 applicable https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-apply https://www.concordia.ca/sgs.html
-appointment https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-approach https://www.concordia.ca/artsci/education.html
-appropriate https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html
-april https://www.concordia.ca/students/registration.html
+appropriate https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html
 architecture https://www.concordia.ca/web/accessibility.html
-area https://www.concordia.ca/students/registration.html
 areas https://www.concordia.ca/web/privacy.html
-article http://library.concordia.ca/ http://library.concordia.ca/
-asked https://www.concordia.ca/students/registration.html
-assignment https://www.concordia.ca/students/registration.html
+arms https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+article https://www.concordia.ca/web/terms.html
+articles https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+as https://www.concordia.ca/web/terms.html
 assistive https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
-at https://www.concordia.ca/students/registration.html
-atmosphere https://www.concordia.ca/artsci/education.html
-attached https://www.concordia.ca/students/registration.html
-attempt https://www.concordia.ca/students/registration.html
+at https://www.concordia.ca/events.html
+attacking https://www.concordia.ca/web/terms.html
 attempts https://www.concordia.ca/web/privacy.html
-attendance https://www.concordia.ca/students/registration.html
-attending https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+attention https://www.concordia.ca/events.html
+attributed https://www.concordia.ca/web/terms.html
 audience https://www.concordia.ca/web/accessibility.html
-audio https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html
-august https://www.concordia.ca/students/registration.html
-authorized https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+audio https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html
+author https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+authorities https://www.concordia.ca/events.html https://www.concordia.ca/events.html
+authority https://www.concordia.ca/web/terms.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html
+authorization https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+authorize https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+authorized https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+authors https://www.concordia.ca/web/terms.html
 automatically https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-availability https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-available https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-b https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-back https://www.concordia.ca/students/registration.html https://www.concordia.ca/social.html
-banner https://www.concordia.ca/students/registration.html
-bar https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html
-bb https://www.concordia.ca/students/registration.html
-beginning https://www.concordia.ca/students/registration.html
+available https://www.concordia.ca/web/accessibility.html
+avoid https://www.concordia.ca/events.html
+avoided https://www.concordia.ca/events.html
+aware https://www.concordia.ca/web/terms.html
+back https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/social.html
+badge https://www.concordia.ca/web/terms.html
+ban https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+bar https://www.concordia.ca/web/accessibility.html
+be https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+bear https://www.concordia.ca/web/terms.html
+beta https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+bilingue https://www.concordia.ca/events.html
 blind https://www.concordia.ca/web/accessibility.html
-block https://www.concordia.ca/students/registration.html
-blvd https://www.concordia.ca/maps/loyola-campus.html https://www.concordia.ca/web/feedback-forms.html
+blogs https://www.concordia.ca/web/terms.html
+blvd https://www.concordia.ca/web/feedback-forms.html https://www.concordia.ca/maps/loyola-campus.html https://www.concordia.ca/maps/sgw-campus.html
+board https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
 bodies https://www.concordia.ca/web/privacy.html
+books https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+border https://www.concordia.ca/events.html https://www.concordia.ca/events.html
+borrowing https://www.concordia.ca/events.html
 bottom https://www.concordia.ca/web/privacy.html
 braille https://www.concordia.ca/web/accessibility.html
 bread https://www.concordia.ca/web/accessibility.html
+broadcast https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
 broadest https://www.concordia.ca/web/accessibility.html
-browser https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
+browser https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html
 browsers https://www.concordia.ca/web/accessibility.html
-builder https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
 bullying https://www.concordia.ca/social.html
-busy https://www.concordia.ca/students/registration.html
-button https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-c https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-ca https://www.concordia.ca/web/privacy.html
-calendar https://www.concordia.ca/academics/undergraduate/calendar/2010-11.html https://www.concordia.ca/academics/undergraduate/calendar/2010-11.html
-called https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+business https://www.concordia.ca/web/terms.html
+but https://www.concordia.ca/events.html
+by https://www.concordia.ca/web/terms.html
+ca https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html
+cache https://www.concordia.ca/web/terms.html
 campaigns https://www.concordia.ca/web/privacy.html
-campus https://www.concordia.ca/maps/loyola-campus.html https://www.concordia.ca/web/accessibility.html
-canada https://www.concordia.ca/maps/loyola-campus.html https://www.concordia.ca/web/feedback-forms.html
-cancellation https://www.concordia.ca/students/registration.html
-cannot https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html
-capacity https://www.concordia.ca/students/registration.html
+campus https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/maps/loyola-campus.html https://www.concordia.ca/maps/sgw-campus.html
+canada https://www.concordia.ca/web/feedback-forms.html https://www.concordia.ca/maps/loyola-campus.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html https://www.concordia.ca/maps/sgw-campus.html
+canadian https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html
+cannot https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html
+capacity https://www.concordia.ca/events.html
 captured https://www.concordia.ca/web/privacy.html
-cart https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
 cascading https://www.concordia.ca/web/accessibility.html
-caused https://www.concordia.ca/students/registration.html
-center https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+case https://www.concordia.ca/web/terms.html https://www.concordia.ca/events.html
 centre https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
-change https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-changes https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+chamber https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+chancellor https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+change https://www.concordia.ca/web/privacy.html
 chapter https://www.concordia.ca/web/privacy.html
-charged https://www.concordia.ca/students/registration.html
 cheat https://www.concordia.ca/social.html
-choice https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-choose https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/artsci/education.html
-circumstances https://www.concordia.ca/students/registration.html
-class https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-classes https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/artsci/education.html
+cipe https://www.concordia.ca/events.html
+cities https://www.concordia.ca/events.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html
+city https://www.concordia.ca/events.html https://www.concordia.ca/events.html
 classroom https://www.concordia.ca/web/accessibility.html
-clear https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-cleared https://www.concordia.ca/students/registration.html
 clearly https://www.concordia.ca/web/accessibility.html
-click https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
 clicking https://www.concordia.ca/web/privacy.html
-code http://library.concordia.ca/
+colleagues https://cspace.concordia.ca/login.html?redirect=%2fen.html
 collect https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
 collected https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
+collection https://www.concordia.ca/events.html https://www.concordia.ca/events.html
 collects https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-combination https://www.concordia.ca/students/registration.html
+college https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+comment https://www.concordia.ca/web/terms.html
+commenters https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+commenting https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+comments https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+commerce https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+commercial https://www.concordia.ca/web/terms.html
 committed https://www.concordia.ca/web/privacy.html
 communicated https://www.concordia.ca/web/privacy.html
 communication https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
 communications https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-community https://www.concordia.ca/web/accessibility.html
-comp248 https://www.concordia.ca/students/registration.html
-completed https://www.concordia.ca/students/registration.html
-completeness https://www.concordia.ca/students/registration.html
-component https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-components https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+community https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+compiled https://www.concordia.ca/web/terms.html
 computer https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
 computers https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
-concentration https://www.concordia.ca/students/registration.html
+conceptual https://www.concordia.ca/events.html
 concerned https://www.concordia.ca/web/privacy.html
-concerning https://www.concordia.ca/students/registration.html
-concordia https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/artsci/education.html
-conf https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-conference https://www.concordia.ca/students/registration.html
-conferences https://www.concordia.ca/students/registration.html
+concordia https://cspace.concordia.ca/login.html?redirect=%2fen.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+conditions https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
 confidential https://www.concordia.ca/web/privacy.html
 confidentiality https://www.concordia.ca/web/privacy.html
-confirm https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-confirmation https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-connection https://www.concordia.ca/web/accessibility.html
-consent https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+conflict https://www.concordia.ca/events.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html
+conflicts https://www.concordia.ca/events.html
+connection https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html
+considered https://www.concordia.ca/web/terms.html
+consisting https://www.concordia.ca/web/terms.html
 consortium https://www.concordia.ca/web/accessibility.html
-constitute https://www.concordia.ca/students/registration.html
 constructed https://www.concordia.ca/web/accessibility.html
-contact https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-contain https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-content https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html
-continue https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+construed https://www.concordia.ca/web/terms.html
+contact https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html
+contain https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+content https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+contents https://www.concordia.ca/web/terms.html
+contesting https://www.concordia.ca/events.html
+continue https://www.concordia.ca/web/privacy.html
+contrary https://www.concordia.ca/web/terms.html
 control https://www.concordia.ca/web/accessibility.html
-controlled https://www.concordia.ca/students/registration.html
+controlled https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
 conversations https://www.concordia.ca/social.html
 cookies https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-correct https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-corrections https://www.concordia.ca/students/registration.html
-correctly https://www.concordia.ca/students/registration.html
-correctness https://www.concordia.ca/students/registration.html
-couple https://www.concordia.ca/students/registration.html
-course http://library.concordia.ca/ https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-courses https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+cooperation https://www.concordia.ca/events.html https://www.concordia.ca/events.html
+copied https://www.concordia.ca/web/terms.html
+copy https://www.concordia.ca/web/terms.html
+copyright https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+counterparts https://www.concordia.ca/events.html
+create https://www.concordia.ca/web/terms.html
 created https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
-credit https://www.concordia.ca/students/registration.html
-criteria https://www.concordia.ca/students/registration.html
+crest https://www.concordia.ca/web/terms.html
+crests https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
 crumb https://www.concordia.ca/web/accessibility.html
-current https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-currently https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-d https://www.concordia.ca/students/registration.html
+cspace https://cspace.concordia.ca/login.html?redirect=%2fen.html
+current https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
 data https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-databases http://library.concordia.ca/
-date https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/academics/undergraduate/calendar/2010-11.html
-dates https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-day https://www.concordia.ca/sgs.html https://www.concordia.ca/sgs.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-de https://www.concordia.ca/maps/loyola-campus.html https://www.concordia.ca/web/feedback-forms.html
-deadline https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-deadlines https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-decision https://www.concordia.ca/students/registration.html
-dedicated https://www.concordia.ca/artsci/education.html
-degree https://www.concordia.ca/students/registration.html
+date https://www.concordia.ca/web/privacy.html
+de https://www.concordia.ca/maps/loyola-campus.html https://www.concordia.ca/maps/sgw-campus.html
+debating https://www.concordia.ca/web/terms.html
+december https://www.concordia.ca/events.html
+decisions https://www.concordia.ca/web/terms.html
+deemed https://www.concordia.ca/web/terms.html
+defamatory https://www.concordia.ca/web/terms.html
 delete https://www.concordia.ca/web/privacy.html
-denied https://www.concordia.ca/students/registration.html
-department http://library.concordia.ca/ https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/artsci/education.html https://www.concordia.ca/artsci/education.html
-departmental https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-departments https://www.concordia.ca/students/registration.html
-details https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-determine https://www.concordia.ca/students/registration.html
+delivery https://www.concordia.ca/events.html
+departmental https://www.concordia.ca/web/accessibility.html
+departments https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+derivative https://www.concordia.ca/web/terms.html
+developed https://www.concordia.ca/web/terms.html
 development https://www.concordia.ca/web/accessibility.html
 devices https://www.concordia.ca/web/accessibility.html
-different https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+dialogue https://www.concordia.ca/events.html
+different https://www.concordia.ca/web/terms.html
 digital https://www.concordia.ca/web/privacy.html
-directed https://www.concordia.ca/students/registration.html
+direct https://www.concordia.ca/web/terms.html
 disabilities https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
 disable https://www.concordia.ca/web/privacy.html
-disc https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-discontinue https://www.concordia.ca/students/registration.html
-display https://www.concordia.ca/students/registration.html
-displayed https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-displays https://www.concordia.ca/students/registration.html
-dne https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-do https://www.concordia.ca/students/registration.html https://www.concordia.ca/social.html
-documents https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html
+discussion https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+display https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+distribute https://www.concordia.ca/web/terms.html
+distributed https://www.concordia.ca/web/terms.html
+do https://www.concordia.ca/social.html
+document https://www.concordia.ca/web/terms.html
+documentation https://www.concordia.ca/web/terms.html
+documents https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html
 don https://www.concordia.ca/social.html https://www.concordia.ca/social.html https://www.concordia.ca/social.html https://www.concordia.ca/social.html https://www.concordia.ca/social.html https://www.concordia.ca/social.html https://www.concordia.ca/social.html
-download https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/academics/undergraduate/calendar/2010-11.html https://www.concordia.ca/academics/undergraduate/calendar/2010-11.html
-drop https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-dropped https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-dropping https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-dsc https://www.concordia.ca/students/registration.html
-e https://www.concordia.ca/students/registration.html
-easy https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+download https://www.concordia.ca/web/accessibility.html
+downloaded https://www.concordia.ca/web/terms.html
+downloading https://www.concordia.ca/web/terms.html
+duly https://www.concordia.ca/web/terms.html
+e https://www.concordia.ca/events.html
+earned https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
 eblasts https://www.concordia.ca/web/privacy.html
-education https://www.concordia.ca/artsci/education.html https://www.concordia.ca/artsci/education.html https://www.concordia.ca/artsci/education.html
-either https://www.concordia.ca/students/registration.html
+editor https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+educational https://www.concordia.ca/web/terms.html
+elected https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
 electronic https://www.concordia.ca/web/privacy.html
-eligible https://www.concordia.ca/students/registration.html
+electronically https://www.concordia.ca/web/terms.html
 else https://www.concordia.ca/social.html
 email https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
 emails https://www.concordia.ca/web/privacy.html
+emblem https://www.concordia.ca/web/terms.html
+emblems https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
 emotionally https://www.concordia.ca/social.html
 employers https://www.concordia.ca/social.html
-engaging https://www.concordia.ca/social.html https://www.concordia.ca/artsci/education.html
-enroll https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-enrolled https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-enrollment https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-ensure https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-enter https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-entering https://www.concordia.ca/students/registration.html
-entire https://www.concordia.ca/academics/undergraduate/calendar/2010-11.html
-entirely https://www.concordia.ca/social.html
-entitle https://www.concordia.ca/students/registration.html
-entitled https://www.concordia.ca/students/registration.html
-entry https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+encode https://www.concordia.ca/web/terms.html
+encourage https://www.concordia.ca/web/terms.html
+enforcement https://www.concordia.ca/events.html https://www.concordia.ca/events.html
+engaging https://www.concordia.ca/social.html
+ensure https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
+entirely https://www.concordia.ca/web/terms.html https://www.concordia.ca/social.html
 equivalent https://www.concordia.ca/web/accessibility.html
-error https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-etc https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html
-even https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html
+etc https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html
+even https://www.concordia.ca/web/accessibility.html
+evenement https://www.concordia.ca/events.html
+event https://www.concordia.ca/events.html
 events https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-eventually https://www.concordia.ca/students/registration.html
-examinations https://www.concordia.ca/sgs.html
-example https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-excellence https://www.concordia.ca/artsci/education.html
-exercise https://www.concordia.ca/web/privacy.html
-existing https://www.concordia.ca/students/registration.html
-experience https://www.concordia.ca/artsci/education.html
-experienced https://www.concordia.ca/artsci/education.html
-explaining https://www.concordia.ca/students/registration.html
+evident https://www.concordia.ca/events.html
+exception https://www.concordia.ca/web/terms.html
+excerpt https://www.concordia.ca/web/terms.html
+exclusive https://cspace.concordia.ca/login.html?redirect=%2fen.html
+exclusivity https://www.concordia.ca/web/terms.html
+exercise https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html
+exists https://www.concordia.ca/web/terms.html
+experience https://www.concordia.ca/web/terms.html
 expletives https://www.concordia.ca/social.html
-ext https://www.concordia.ca/students/registration.html
-extremely https://www.concordia.ca/students/registration.html
+explicitly https://www.concordia.ca/web/terms.html
+express https://www.concordia.ca/web/terms.html
+expressly https://www.concordia.ca/web/terms.html
 facilitate https://www.concordia.ca/web/privacy.html
 facilities https://www.concordia.ca/web/accessibility.html
-faculty https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-failing https://www.concordia.ca/students/registration.html
-fall https://www.concordia.ca/sgs.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-feature https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-features https://www.concordia.ca/students/registration.html
-february https://www.concordia.ca/academics/undergraduate/calendar/2010-11.html
-fees https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-field https://www.concordia.ca/students/registration.html
-file https://www.concordia.ca/academics/undergraduate/calendar/2010-11.html
-files https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html
-filled https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-final https://www.concordia.ca/students/registration.html
-financial https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-financially https://www.concordia.ca/students/registration.html
-find https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-finder http://library.concordia.ca/
-finish https://www.concordia.ca/students/registration.html
-first https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+faculty https://cspace.concordia.ca/login.html?redirect=%2fen.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+failing https://www.concordia.ca/web/terms.html
+fear https://www.concordia.ca/events.html
+features https://www.concordia.ca/web/terms.html
+federal https://www.concordia.ca/events.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html
+feel https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+festival https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+files https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html
+final https://www.concordia.ca/web/terms.html
+find https://cspace.concordia.ca/login.html?redirect=%2fen.html
+first https://cspace.concordia.ca/login.html?redirect=%2fen.html
 five https://www.concordia.ca/web/accessibility.html
 fm https://www.concordia.ca/web/accessibility.html
-follow https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-following https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-for https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-formally https://www.concordia.ca/students/registration.html
+folger https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+follow https://www.concordia.ca/web/accessibility.html
+following https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html
+forbidden https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+form https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+forums https://www.concordia.ca/web/terms.html
+founding https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+four https://www.concordia.ca/web/terms.html
+frame https://www.concordia.ca/web/terms.html
+free https://www.concordia.ca/events.html
 from https://www.concordia.ca/web/privacy.html
-fulfill https://www.concordia.ca/students/registration.html
-full https://www.concordia.ca/students/registration.html
-function https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
 functions https://www.concordia.ca/web/accessibility.html
 fundraising https://www.concordia.ca/web/privacy.html
-generally https://www.concordia.ca/students/registration.html
-george https://www.concordia.ca/maps/loyola-campus.html
-get https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-give https://www.concordia.ca/students/registration.html
-given https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-go https://www.concordia.ca/students/registration.html
-good https://www.concordia.ca/web/privacy.html
+future https://www.concordia.ca/web/terms.html
+gaining https://www.concordia.ca/events.html
+gave https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+george https://www.concordia.ca/maps/loyola-campus.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/maps/sgw-campus.html
+get https://cspace.concordia.ca/login.html?redirect=%2fen.html
+given https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html
+global https://www.concordia.ca/events.html
+going https://cspace.concordia.ca/login.html?redirect=%2fen.html
+good https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html
+govern https://www.concordia.ca/events.html https://www.concordia.ca/events.html
+governance https://www.concordia.ca/events.html
+government https://www.concordia.ca/events.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html
+governments https://www.concordia.ca/events.html https://www.concordia.ca/events.html
 gracefully https://www.concordia.ca/web/accessibility.html
-grade https://www.concordia.ca/students/registration.html
+graduate https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
 graphic https://www.concordia.ca/web/privacy.html
-grid https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-ground https://www.concordia.ca/artsci/education.html
-guidance https://www.concordia.ca/students/registration.html
-guide http://library.concordia.ca/
-guidelines https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html
+gratuit https://www.concordia.ca/events.html
+ground https://www.concordia.ca/events.html
+guelph https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+guidelines https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html
 guy https://www.concordia.ca/web/privacy.html
 h3g https://www.concordia.ca/web/privacy.html
+hand https://www.concordia.ca/events.html https://www.concordia.ca/events.html
 hardware https://www.concordia.ca/web/accessibility.html
-hate https://www.concordia.ca/social.html
-having https://www.concordia.ca/students/registration.html
+hate https://www.concordia.ca/web/terms.html https://www.concordia.ca/social.html
+he https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
 hear https://www.concordia.ca/web/accessibility.html
 hearing https://www.concordia.ca/web/accessibility.html
-held https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html
-help https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/social.html
-here https://www.concordia.ca/students/registration.html
+held https://www.concordia.ca/web/privacy.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+help https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/social.html
+her https://www.concordia.ca/web/terms.html
+hereinafter https://www.concordia.ca/web/terms.html
 hierarchy https://www.concordia.ca/web/accessibility.html
-hist https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-hold https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-holds https://www.concordia.ca/students/registration.html
-however https://www.concordia.ca/students/registration.html
-hub https://www.concordia.ca/students/registration.html
+his https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+home https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+host https://www.concordia.ca/web/terms.html
 humiliation https://www.concordia.ca/social.html
 identification https://www.concordia.ca/web/privacy.html
-identify https://www.concordia.ca/students/registration.html
-if https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-images https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
+if https://www.concordia.ca/web/privacy.html
+ii https://www.concordia.ca/web/terms.html
+illegal https://www.concordia.ca/web/terms.html
+images https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html
 impaired https://www.concordia.ca/web/accessibility.html
 impairments https://www.concordia.ca/web/accessibility.html
 implemented https://www.concordia.ca/web/privacy.html
-important https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+implicitly https://www.concordia.ca/web/terms.html
+important https://www.concordia.ca/web/terms.html
 improve https://www.concordia.ca/web/privacy.html
-in https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html
+in https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
 include https://www.concordia.ca/web/accessibility.html
-including https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-incorrect https://www.concordia.ca/students/registration.html
+includes https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+including https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html
+incongruous https://www.concordia.ca/events.html
+increased https://www.concordia.ca/events.html
 independence https://www.concordia.ca/web/accessibility.html
-independent https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-individual https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/academics/undergraduate/calendar/2010-11.html
-information https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/social.html
+index https://www.concordia.ca/web/terms.html
+indicate https://www.concordia.ca/web/terms.html
+indicated https://www.concordia.ca/web/terms.html
+indication https://www.concordia.ca/web/terms.html
+individual https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html
+information https://cspace.concordia.ca/login.html?redirect=%2fen.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html https://www.concordia.ca/social.html
 informed https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-informing https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-instances https://www.concordia.ca/students/registration.html
-instructions https://www.concordia.ca/students/registration.html
-instructor https://www.concordia.ca/sgs.html https://www.concordia.ca/students/registration.html
+innovative https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+instances https://www.concordia.ca/events.html
+institutions https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
 integration https://www.concordia.ca/web/accessibility.html
-intend https://www.concordia.ca/students/registration.html
-intent https://www.concordia.ca/students/registration.html
-involved https://www.concordia.ca/students/registration.html
+intelligent https://www.concordia.ca/web/terms.html
+international https://www.concordia.ca/web/terms.html
+interpreted https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+intranet https://cspace.concordia.ca/login.html?redirect=%2fen.html
 ip https://www.concordia.ca/web/privacy.html
-it https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-january https://www.concordia.ca/students/registration.html
-judgment https://www.concordia.ca/web/privacy.html
-keep https://www.concordia.ca/students/registration.html
-keeping https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+issues https://www.concordia.ca/web/terms.html
+its https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+joined https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+judgment https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html
+jurisdiction https://www.concordia.ca/events.html https://www.concordia.ca/events.html
+kappa https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+keep https://www.concordia.ca/web/terms.html
+keeping https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
 kept https://www.concordia.ca/web/privacy.html
 keys https://www.concordia.ca/web/accessibility.html
-know https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-knowledge https://www.concordia.ca/artsci/education.html
-laboratory https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-labs https://www.concordia.ca/students/registration.html
-last https://www.concordia.ca/sgs.html https://www.concordia.ca/sgs.html
-later https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-laws https://www.concordia.ca/web/privacy.html
+know https://cspace.concordia.ca/login.html?redirect=%2fen.html
+known https://www.concordia.ca/web/terms.html
+l https://www.concordia.ca/events.html
+la https://www.concordia.ca/events.html
+language https://www.concordia.ca/web/terms.html
+laws https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+leadership https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
 learning https://www.concordia.ca/web/accessibility.html
-lec https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-lecture https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-level https://www.concordia.ca/web/accessibility.html
+legal https://www.concordia.ca/web/terms.html https://www.concordia.ca/events.html
+level https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/events.html
 levels https://www.concordia.ca/web/accessibility.html
+libelous https://www.concordia.ca/web/terms.html
+library https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+licenses https://www.concordia.ca/web/terms.html
 lie https://www.concordia.ca/social.html
+likely https://www.concordia.ca/web/terms.html
 likes https://www.concordia.ca/social.html
 limitations https://www.concordia.ca/web/accessibility.html
+limited https://www.concordia.ca/events.html
 line https://www.concordia.ca/web/accessibility.html
-link https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-linked https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-linkedin https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/artsci/education.html
-links https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html
-list https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-listing https://www.concordia.ca/students/registration.html
+link https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
+linked https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html
+linkedin https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html
+links https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
 lists https://www.concordia.ca/web/privacy.html
-locate http://library.concordia.ca/
+living https://www.concordia.ca/events.html
+local https://www.concordia.ca/events.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html
 located https://www.concordia.ca/web/accessibility.html
-longer https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-lose https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-losing https://www.concordia.ca/students/registration.html
+locked https://www.concordia.ca/events.html
+logos https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+loyola https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
 made https://www.concordia.ca/web/privacy.html
-mail https://www.concordia.ca/students/registration.html
-mailing https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html
+mailing https://www.concordia.ca/web/privacy.html
 mainly https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
 maintain https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-maisonneuve https://www.concordia.ca/maps/loyola-campus.html https://www.concordia.ca/web/feedback-forms.html
-make https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+maisonneuve https://www.concordia.ca/web/feedback-forms.html https://www.concordia.ca/maps/loyola-campus.html https://www.concordia.ca/maps/sgw-campus.html
+majesty https://www.concordia.ca/web/terms.html
+make https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html
+many https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+mark https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+marks https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+material https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
 matter https://www.concordia.ca/social.html
-may https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/academics/undergraduate/calendar/2010-11.html
-mean https://www.concordia.ca/students/registration.html
-means https://www.concordia.ca/web/privacy.html
-media https://www.concordia.ca/web/accessibility.html
-menu https://www.concordia.ca/students/registration.html
-message https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+may https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+means https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html
+mechanically https://www.concordia.ca/web/terms.html
+media https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html
+method https://www.concordia.ca/web/terms.html
+metropolitan https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
 mice https://www.concordia.ca/web/accessibility.html
+migrants https://www.concordia.ca/events.html
+migration https://www.concordia.ca/events.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html
+mind https://www.concordia.ca/web/terms.html
+mistaken https://www.concordia.ca/web/terms.html
 mobility https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
-monday https://www.concordia.ca/sgs.html
+model https://www.concordia.ca/events.html
+moderate https://www.concordia.ca/web/terms.html
+moderator https://www.concordia.ca/web/terms.html
+modern https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+modify https://www.concordia.ca/web/terms.html
 monitor https://www.concordia.ca/web/privacy.html
-montreal https://www.concordia.ca/maps/loyola-campus.html https://www.concordia.ca/web/feedback-forms.html https://www.concordia.ca/web/privacy.html
+montreal https://www.concordia.ca/web/feedback-forms.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/maps/loyola-campus.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/maps/sgw-campus.html https://www.concordia.ca/campus-life/life-in-montreal.html
+movement https://www.concordia.ca/events.html
 much https://www.concordia.ca/social.html
-multi https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-multiple https://www.concordia.ca/students/registration.html
-must https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-my https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-name https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+municipal https://www.concordia.ca/events.html https://www.concordia.ca/events.html
+must https://www.concordia.ca/web/terms.html
+name https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+nature https://www.concordia.ca/events.html
 navigable https://www.concordia.ca/web/accessibility.html
-navigation https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-nbr https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-necessary https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-need https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-neither https://www.concordia.ca/web/privacy.html
-never https://www.concordia.ca/students/registration.html https://www.concordia.ca/social.html https://www.concordia.ca/social.html https://www.concordia.ca/artsci/education.html
-new https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-newly https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+navigation https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
+nearly https://www.concordia.ca/web/terms.html
+need https://cspace.concordia.ca/login.html?redirect=%2fen.html
+neither https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html
+netname https://cspace.concordia.ca/login.html?redirect=%2fen.html
+never https://www.concordia.ca/social.html https://www.concordia.ca/social.html
+new https://www.concordia.ca/web/accessibility.html
 news https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
 newsletter https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-next https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-non https://www.concordia.ca/students/registration.html
-not https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-note https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/academics/undergraduate/calendar/2010-11.html
-november https://www.concordia.ca/students/registration.html
+no https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+non https://www.concordia.ca/web/terms.html https://www.concordia.ca/events.html
+note https://www.concordia.ca/web/terms.html
+nothing https://www.concordia.ca/web/terms.html
+notice https://www.concordia.ca/web/terms.html
 now https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-nrb https://www.concordia.ca/students/registration.html
-number https://www.concordia.ca/students/registration.html https://www.concordia.ca/artsci/education.html
-obligations https://www.concordia.ca/students/registration.html
-observing https://www.concordia.ca/students/registration.html
-obtain https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+nowhere https://www.concordia.ca/events.html
+numbers https://www.concordia.ca/events.html
+obscene https://www.concordia.ca/web/terms.html
 obtained https://www.concordia.ca/web/privacy.html
 offered https://www.concordia.ca/web/privacy.html
-offering https://www.concordia.ca/students/registration.html
-official https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html
+office https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+official https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/events.html
 older https://www.concordia.ca/web/accessibility.html
-on https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-once https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-one https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/academics/undergraduate/calendar/2010-11.html
-onward https://www.concordia.ca/students/registration.html
-option https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-options https://www.concordia.ca/students/registration.html
-or https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/academics/undergraduate/calendar/2010-11.html
-order https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html
+on https://www.concordia.ca/events.html
+one https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/events.html
+open https://www.concordia.ca/events.html
+operated https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+order https://www.concordia.ca/web/accessibility.html
 organization https://www.concordia.ca/web/accessibility.html
-organizations https://www.concordia.ca/social.html
+organizations https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/social.html
 orientation https://www.concordia.ca/web/accessibility.html
-originally https://www.concordia.ca/students/registration.html
+otherwise https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
 outlines https://www.concordia.ca/web/accessibility.html
 output https://www.concordia.ca/web/accessibility.html
-page https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-pages https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html
-paid https://www.concordia.ca/students/registration.html
-particular https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html
-parties https://www.concordia.ca/web/privacy.html
-passed https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-payment https://www.concordia.ca/students/registration.html
-pdf https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/academics/undergraduate/calendar/2010-11.html https://www.concordia.ca/academics/undergraduate/calendar/2010-11.html
+ouvert https://www.concordia.ca/events.html
+overt https://www.concordia.ca/events.html
+owned https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+p https://www.concordia.ca/events.html https://www.concordia.ca/events.html
+page https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
+pages https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+paid https://www.concordia.ca/events.html
+paper https://www.concordia.ca/web/terms.html
+part https://www.concordia.ca/web/terms.html
+particular https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
+parties https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html
+password https://cspace.concordia.ca/login.html?redirect=%2fen.html
+past https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+pdf https://www.concordia.ca/web/accessibility.html
 peers https://www.concordia.ca/social.html
-penalty https://www.concordia.ca/students/registration.html
-people https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/artsci/education.html
-personal https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/social.html
-personalized https://www.concordia.ca/artsci/education.html
+people https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
+perform https://www.concordia.ca/web/terms.html
+periode https://www.concordia.ca/events.html
+permanent https://www.concordia.ca/web/terms.html
+person https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+personal https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/social.html
 persons https://www.concordia.ca/web/accessibility.html
+phd https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+phi https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
 photos https://www.concordia.ca/social.html
 physical https://www.concordia.ca/web/accessibility.html
-piece https://www.concordia.ca/students/registration.html
-place https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-placed https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-places https://www.concordia.ca/students/registration.html
 plagiarize https://www.concordia.ca/social.html
-please https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/academics/undergraduate/calendar/2010-11.html
-point https://www.concordia.ca/students/registration.html
-policies https://www.concordia.ca/web/privacy.html
-policy https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
-portal https://www.concordia.ca/students/registration.html
-portion https://www.concordia.ca/students/registration.html
-possible https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-post https://www.concordia.ca/social.html
+played https://www.concordia.ca/events.html
+please https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html
+policies https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/events.html
+policy https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html
+political https://www.concordia.ca/events.html
+pornographic https://www.concordia.ca/web/terms.html
+possible https://www.concordia.ca/web/accessibility.html
+possibly https://www.concordia.ca/web/terms.html
+post https://www.concordia.ca/web/terms.html https://www.concordia.ca/social.html
+posted https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
 potential https://www.concordia.ca/social.html
-potentially https://www.concordia.ca/students/registration.html
-practical https://www.concordia.ca/artsci/education.html
-preferred https://www.concordia.ca/students/registration.html
-prerequisite https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-prerequisites https://www.concordia.ca/students/registration.html
-prescribed https://www.concordia.ca/students/registration.html
-presentation https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
-press https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-privacy https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/social.html
-problem https://www.concordia.ca/students/registration.html
-proceed https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-proceeding https://www.concordia.ca/students/registration.html
-process https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-program https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-programmed https://www.concordia.ca/students/registration.html
-programs https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/artsci/education.html
+power https://www.concordia.ca/events.html
+present https://www.concordia.ca/web/terms.html
+presentation https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html
+president https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+presumptions https://www.concordia.ca/events.html
+principles https://www.concordia.ca/web/terms.html
+printing https://www.concordia.ca/web/terms.html
+privacy https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/social.html
+produced https://www.concordia.ca/web/terms.html
+professor https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+programs https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
 progress https://www.concordia.ca/web/privacy.html
-prompted https://www.concordia.ca/students/registration.html
-protected https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-protection https://www.concordia.ca/web/privacy.html
-provided https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html
+prohibits https://www.concordia.ca/web/terms.html
+project https://www.concordia.ca/events.html
+promising https://www.concordia.ca/events.html
+promote https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+promoting https://www.concordia.ca/web/terms.html
+promotion https://www.concordia.ca/web/terms.html
+property https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+protected https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+protection https://www.concordia.ca/web/privacy.html https://www.concordia.ca/events.html
+provided https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
 provides https://www.concordia.ca/web/accessibility.html
-providing https://www.concordia.ca/students/registration.html
-provincial https://www.concordia.ca/web/privacy.html
-public https://www.concordia.ca/web/privacy.html
+province https://www.concordia.ca/web/terms.html
+provincial https://www.concordia.ca/web/privacy.html https://www.concordia.ca/events.html
+provost https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+public https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/events.html
+publication https://www.concordia.ca/web/terms.html
+publicly https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+publish https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
 q https://www.concordia.ca/web/privacy.html
 qc https://www.concordia.ca/web/privacy.html
-quebec https://www.concordia.ca/maps/loyola-campus.html https://www.concordia.ca/web/feedback-forms.html https://www.concordia.ca/sgs.html https://www.concordia.ca/web/privacy.html
+quebec https://www.concordia.ca/web/feedback-forms.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/maps/loyola-campus.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/maps/sgw-campus.html
+question https://www.concordia.ca/events.html
 questionable https://www.concordia.ca/social.html
-questions https://www.concordia.ca/web/privacy.html
+questions https://www.concordia.ca/web/privacy.html https://www.concordia.ca/events.html
 r https://www.concordia.ca/web/privacy.html
 rants https://www.concordia.ca/social.html
-reach https://www.concordia.ca/students/registration.html
 react https://www.concordia.ca/social.html
+read https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
 reader https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
 readers https://www.concordia.ca/web/accessibility.html
-receive https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+reads https://www.concordia.ca/web/terms.html
+receive https://www.concordia.ca/web/privacy.html
 received https://www.concordia.ca/web/privacy.html
-recommended https://www.concordia.ca/students/registration.html
-record https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
 recorders https://www.concordia.ca/web/accessibility.html
-rectify https://www.concordia.ca/students/registration.html
-redirected https://www.concordia.ca/students/registration.html
-refer https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-refund https://www.concordia.ca/students/registration.html
-regarding https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-regardless https://www.concordia.ca/students/registration.html
-register https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-registered https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-registering https://www.concordia.ca/students/registration.html
-registration https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-regulations https://www.concordia.ca/students/registration.html
-related https://www.concordia.ca/students/registration.html
-relevant https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-reliability https://www.concordia.ca/web/privacy.html
+refer https://www.concordia.ca/web/privacy.html
+regarding https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html
+registrar https://www.concordia.ca/web/terms.html
+regulations https://www.concordia.ca/web/terms.html
+related https://www.concordia.ca/web/terms.html
+relationship https://www.concordia.ca/events.html
+relatively https://www.concordia.ca/web/terms.html
+relevant https://www.concordia.ca/web/terms.html
+reliability https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html
 relocation https://www.concordia.ca/web/accessibility.html
 rely https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/social.html
-remain https://www.concordia.ca/students/registration.html
-remember https://www.concordia.ca/students/registration.html
-removed https://www.concordia.ca/web/privacy.html
+removed https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html
 render https://www.concordia.ca/web/accessibility.html
-replace https://www.concordia.ca/students/registration.html
+report https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+representative https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
 representing https://www.concordia.ca/social.html
-reputation https://www.concordia.ca/artsci/education.html
-request https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
+reproduce https://www.concordia.ca/web/terms.html
+reproduced https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+reproduction https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+republished https://www.concordia.ca/web/terms.html
+request https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html
 require https://www.concordia.ca/web/accessibility.html
-required https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-requires https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html
-research https://www.concordia.ca/artsci/education.html
-reserved https://www.concordia.ca/students/registration.html
-resident https://www.concordia.ca/sgs.html
+requires https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html
+research https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+resembling https://www.concordia.ca/web/terms.html
+reserve https://www.concordia.ca/web/terms.html
+reserves https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+residents https://www.concordia.ca/events.html
 resolutions https://www.concordia.ca/web/accessibility.html
 resort https://www.concordia.ca/social.html
-respect https://www.concordia.ca/web/accessibility.html
+respect https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html
+respectful https://www.concordia.ca/web/terms.html
 respecting https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
 respective https://www.concordia.ca/web/accessibility.html
+response https://www.concordia.ca/events.html
 responsibilities https://www.concordia.ca/web/accessibility.html
-responsible https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-restrictions https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-result https://www.concordia.ca/students/registration.html
-retrieve https://www.concordia.ca/students/registration.html
-returning https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+responsible https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html
+result https://www.concordia.ca/web/terms.html
 retweets https://www.concordia.ca/social.html
-risk https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-roles https://www.concordia.ca/web/accessibility.html
-run https://www.concordia.ca/students/registration.html
+review https://www.concordia.ca/events.html
+right https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+rights https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+rise https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+role https://www.concordia.ca/events.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html
+roles https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+ryerson https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
 s https://www.concordia.ca/web/privacy.html
-satisfied https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-saturday https://www.concordia.ca/sgs.html
-schedule https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-scheduled https://www.concordia.ca/sgs.html
-screen https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html
-search http://library.concordia.ca/ https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-seats https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-section https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-sections https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/academics/undergraduate/calendar/2010-11.html
-see https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-select https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-selected https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-selecting https://www.concordia.ca/students/registration.html
-selection https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-self https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+sanctuary https://www.concordia.ca/events.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html
+screen https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
+sections https://www.concordia.ca/web/accessibility.html
+see https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
+self https://www.concordia.ca/web/terms.html
 send https://www.concordia.ca/web/privacy.html
 sensitive https://www.concordia.ca/social.html
 sent https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
 separated https://www.concordia.ca/web/accessibility.html
-september https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-service https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-services https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
+served https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+service https://www.concordia.ca/web/privacy.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/events.html
+services https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html
 sessions https://www.concordia.ca/web/accessibility.html
 settings https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/social.html
-sgw https://www.concordia.ca/maps/loyola-campus.html
+sgw https://www.concordia.ca/maps/loyola-campus.html https://www.concordia.ca/maps/sgw-campus.html
+shall https://www.concordia.ca/web/terms.html
 share https://www.concordia.ca/social.html https://www.concordia.ca/social.html
+sharing https://www.concordia.ca/events.html
 sheet https://www.concordia.ca/web/accessibility.html
 sheets https://www.concordia.ca/web/accessibility.html
+shepard https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
 short https://www.concordia.ca/web/privacy.html
 shortcuts https://www.concordia.ca/web/accessibility.html
-show https://www.concordia.ca/students/registration.html
-shown https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
 since https://www.concordia.ca/web/privacy.html
-sir https://www.concordia.ca/maps/loyola-campus.html https://www.concordia.ca/maps/sgw-campus.html
-site https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-sites https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
+sir https://www.concordia.ca/maps/loyola-campus.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/maps/sgw-campus.html
+site https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+sites https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
 situates https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
-situation https://www.concordia.ca/students/registration.html
 slow https://www.concordia.ca/web/accessibility.html
 software https://www.concordia.ca/web/privacy.html
+sold https://www.concordia.ca/web/terms.html
+sole https://www.concordia.ca/web/terms.html
 something https://www.concordia.ca/social.html
-spaces https://www.concordia.ca/students/registration.html
-special https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html
-specific http://library.concordia.ca/ https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+source https://cspace.concordia.ca/login.html?redirect=%2fen.html
+spam https://www.concordia.ca/web/terms.html
+special https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/events.html
+speech https://www.concordia.ca/web/terms.html
 speeds https://www.concordia.ca/web/accessibility.html
 st https://www.concordia.ca/web/privacy.html
-staff https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html
+staff https://cspace.concordia.ca/login.html?redirect=%2fen.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
 standardized https://www.concordia.ca/web/accessibility.html
 standards https://www.concordia.ca/web/accessibility.html
-stating https://www.concordia.ca/students/registration.html
-status https://www.concordia.ca/sgs.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-stay https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html
-step https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-steps https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-still https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html
-stop https://www.concordia.ca/students/registration.html
+standpoints https://www.concordia.ca/events.html
+statues https://www.concordia.ca/web/terms.html
+status https://www.concordia.ca/events.html
+stay https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
+still https://www.concordia.ca/web/accessibility.html
 stored https://www.concordia.ca/web/privacy.html
-strictly https://www.concordia.ca/web/privacy.html
-strongly https://www.concordia.ca/students/registration.html
+stratford https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+strictly https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
 structure https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
-student https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-students https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/artsci/education.html
-study https://www.concordia.ca/students/registration.html
+students https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+study https://www.concordia.ca/events.html
 studying https://www.concordia.ca/web/accessibility.html
 style https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
-subject http://library.concordia.ca/
-successful https://www.concordia.ca/students/registration.html
-successfully https://www.concordia.ca/students/registration.html
+subsidiary https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
 suite https://www.concordia.ca/web/privacy.html
-summer https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+suivie https://www.concordia.ca/events.html
 support https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
+supported https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+survey https://www.concordia.ca/events.html
 surveys https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-swap https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-swapped https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-swapping https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-system https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+symbols https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
 systems https://www.concordia.ca/web/accessibility.html
-tab https://www.concordia.ca/students/registration.html
-table https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-take https://www.concordia.ca/students/registration.html
-taken https://www.concordia.ca/students/registration.html
-takes https://www.concordia.ca/students/registration.html
+tag https://www.concordia.ca/web/terms.html
 tape https://www.concordia.ca/web/accessibility.html
-taught https://www.concordia.ca/artsci/education.html
 teachers https://www.concordia.ca/social.html
 technologies https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
 technology https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
 templates https://www.concordia.ca/web/accessibility.html
-term https://www.concordia.ca/sgs.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-terms https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-tests https://www.concordia.ca/sgs.html
+terms https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+texas https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
 text https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
-textbooks http://library.concordia.ca/
-the https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-theoretical https://www.concordia.ca/artsci/education.html
-there https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-therefore https://www.concordia.ca/students/registration.html
+the https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html
+these https://www.concordia.ca/web/terms.html
+things https://www.concordia.ca/web/terms.html
 think https://www.concordia.ca/social.html
-third https://www.concordia.ca/web/privacy.html
-this https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+third https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html
+this https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/events.html
+threaten https://www.concordia.ca/web/terms.html
 threats https://www.concordia.ca/social.html
-three https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-time https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+three https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+time https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/events.html
 tite https://www.concordia.ca/web/accessibility.html
-to https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
 tool https://www.concordia.ca/web/accessibility.html
-top https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/social.html
+top https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/social.html
+topic https://www.concordia.ca/web/terms.html
+toronto https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/events.html https://www.concordia.ca/events.html
 touch https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
+tous https://www.concordia.ca/events.html
+trade https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+trademark https://www.concordia.ca/web/terms.html
+trademarks https://www.concordia.ca/web/terms.html
 trail https://www.concordia.ca/web/accessibility.html
-transaction https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
 transcription https://www.concordia.ca/web/accessibility.html
 transferred https://www.concordia.ca/web/privacy.html
 transform https://www.concordia.ca/web/accessibility.html
+transmit https://www.concordia.ca/web/terms.html
+transmitted https://www.concordia.ca/web/terms.html
+transnational https://www.concordia.ca/events.html
 trash https://www.concordia.ca/social.html
-treated https://www.concordia.ca/students/registration.html
+treaties https://www.concordia.ca/web/terms.html
 tried https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
-try https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-tuition https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
 turning https://www.concordia.ca/web/accessibility.html
-tutorial https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-tutorials https://www.concordia.ca/students/registration.html
-two https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-type https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-types https://www.concordia.ca/students/registration.html
-u https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-ua https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-ub https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-ugcalendar10 https://www.concordia.ca/academics/undergraduate/calendar/2010-11.html
-ui https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-under https://www.concordia.ca/students/registration.html
-undergraduate https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/academics/undergraduate/calendar/2010-11.html https://www.concordia.ca/academics/undergraduate/calendar/2010-11.html
+two https://www.concordia.ca/web/terms.html
+type https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html
+uncertainty https://www.concordia.ca/events.html
+undergraduate https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+understand https://www.concordia.ca/web/terms.html
 understandable https://www.concordia.ca/web/accessibility.html
 unit https://www.concordia.ca/web/accessibility.html
 universal https://www.concordia.ca/web/accessibility.html
-university https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-unlike https://www.concordia.ca/students/registration.html
+universities https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+university https://cspace.concordia.ca/login.html?redirect=%2fen.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+unless https://www.concordia.ca/web/terms.html
+unlike https://www.concordia.ca/events.html
+unsafe https://www.concordia.ca/web/terms.html
 unsubscribe https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-unsuccessful https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+unwelcome https://www.concordia.ca/web/terms.html
+urban https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
 usable https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
-use http://library.concordia.ca/ https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/social.html
-used https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-user https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-users https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-using https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
+use https://cspace.concordia.ca/login.html?redirect=%2fen.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/social.html
+used https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+user https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html
+users https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html
+using https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/events.html
 usually https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-validity https://www.concordia.ca/students/registration.html
 variety https://www.concordia.ca/web/accessibility.html
 various https://www.concordia.ca/web/accessibility.html
-verification https://www.concordia.ca/students/registration.html
-verify https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-version https://www.concordia.ca/academics/undergraduate/calendar/2010-11.html
-via http://library.concordia.ca/ https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
+verbally https://www.concordia.ca/web/terms.html
+verify https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html
+via https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
+vice https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
 video https://www.concordia.ca/web/accessibility.html
 videos https://www.concordia.ca/social.html
-view https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
 viewed https://www.concordia.ca/web/privacy.html
-visiting https://www.concordia.ca/students/registration.html
+virginia https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
 visitor https://www.concordia.ca/web/privacy.html
-visual https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html
+visual https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
+vitality https://www.concordia.ca/events.html
 voice https://www.concordia.ca/web/accessibility.html
 volunteer https://www.concordia.ca/web/accessibility.html
 w https://www.concordia.ca/web/feedback-forms.html
 w3c https://www.concordia.ca/web/accessibility.html
-wait https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-waitlist https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-want https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-warm https://www.concordia.ca/artsci/education.html
-we https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
-web https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-website https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-websites https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html
-weeks https://www.concordia.ca/students/registration.html
+want https://www.concordia.ca/web/accessibility.html
+warning https://www.concordia.ca/web/terms.html
+washington https://www.concordia.ca/about/administration-governance/president/alan-shepard.html
+we https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html
+web https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html
+website https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+websites https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
 well https://www.concordia.ca/web/accessibility.html
-west https://www.concordia.ca/maps/loyola-campus.html
+west https://www.concordia.ca/maps/loyola-campus.html https://www.concordia.ca/maps/sgw-campus.html
 what https://www.concordia.ca/web/privacy.html
-while https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html
+when https://www.concordia.ca/events.html
+where https://www.concordia.ca/events.html
+while https://www.concordia.ca/web/privacy.html
 wide https://www.concordia.ca/web/accessibility.html
-williams https://www.concordia.ca/maps/loyola-campus.html
-winter https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-wish https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-with https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-withdraw https://www.concordia.ca/students/registration.html
-withdrawal https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-withdrawals https://www.concordia.ca/students/registration.html
-within https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html
-without https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/students/registration.html
+williams https://www.concordia.ca/maps/loyola-campus.html https://www.concordia.ca/about/administration-governance/president/alan-shepard.html https://www.concordia.ca/maps/sgw-campus.html
+within https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html
+without https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/events.html
 words https://www.concordia.ca/web/accessibility.html
-work https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
+work https://cspace.concordia.ca/login.html?redirect=%2fen.html https://www.concordia.ca/web/accessibility.html https://www.concordia.ca/web/accessibility.html
+working https://www.concordia.ca/events.html
+works https://www.concordia.ca/web/terms.html
+workshop https://www.concordia.ca/events.html
 world https://www.concordia.ca/web/accessibility.html
-would https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html
-written https://www.concordia.ca/web/privacy.html
-wrong https://www.concordia.ca/students/registration.html
-x https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html
-year https://www.concordia.ca/students/registration.html
-you https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/students/registration.html https://www.concordia.ca/academics/undergraduate/calendar/2010-11.html https://www.concordia.ca/artsci/education.html https://www.concordia.ca/artsci/education.html
+would https://www.concordia.ca/web/privacy.html
+written https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+you https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/privacy.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html https://www.concordia.ca/web/terms.html
+your https://www.concordia.ca/web/terms.html
