@@ -1,3 +1,0 @@
-Total_number_of_articles= 324480
-Total_number_of_Tokens= 43
-Average_Token_number= 23.32455621301775
